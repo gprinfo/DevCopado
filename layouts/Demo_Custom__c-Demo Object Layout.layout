@@ -18,11 +18,7 @@
                 <behavior>Edit</behavior>
                 <field>Field_Two__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Field_Three__c</field>
-            </layoutItems>
-        </layoutColumns>
+                 </layoutColumns>
         <layoutColumns>
             <layoutItems>
                 <behavior>Edit</behavior>
